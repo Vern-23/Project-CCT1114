@@ -1,0 +1,160 @@
+h1 {
+    color: black;
+    text-align: center;
+    padding: auto;
+    border: 1px solid #161615;
+    border-radius: 10px;
+    box-shadow: 0 8px 2px rgb(3, 8, 8);
+    background-color: #a7d9d7;
+}
+
+body {
+    background-color: #405f72;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid #111111;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(24, 17, 6, 0.864);
+    font-family:Cambria ;
+    background-color: #a7d7d9;
+}
+
+table {
+    margin-bottom: 10px;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 5px solid #184d97;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 2px #252626;
+}
+
+th, td {
+    border: 2px solid #184d97;
+    padding: 10px;
+}
+
+nav {
+    background-color: #a7d9d7;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 12px;
+}
+
+.portal-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.portal-button:hover,
+.portal-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.home-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.home-button:hover,
+.home-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.learn-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.learn-button:hover,
+.learn-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.technology-button {
+    display: block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.technology-button:hover,
+.technology-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.lifelong-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.lifelong-button:hover,
+.lifelong-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.careers-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.careers-button:hover,
+.careers-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
+
+.community-button {
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: antiquewhite;
+    color: #111111;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.community-button:hover,
+.community-button:focus-visible {
+    background-color: rgb(28, 87, 87);
+    color: wheat;
+}
